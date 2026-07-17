@@ -36,6 +36,16 @@ const Contact = () => {
             <div>
               <h4 className="text-white/60 font-medium uppercase text-sm md:text-base mb-2">Education</h4>
               <p className="text-xl md:text-2xl text-white">BSc in Computer Science</p>
+              <a 
+                        href="/RESUME OF RAFSANUL RIFAT.pdf" 
+                        target="_blank"
+                        className=""
+                      >
+                        <span className="text-[#14b8a6] mt-5 inline-block hover:underline text-sm md:text-xl font-semibold tracking-[2px] transition-all duration-300">
+                          VIEW RESUME
+                        </span>
+                        
+                      </a>
             </div>
           </div>
 
