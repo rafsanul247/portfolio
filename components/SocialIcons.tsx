@@ -69,7 +69,7 @@ const SocialIcons = () => {
 
         {/* ২. রেজুমে বাটন - পজিশনিং ঠিক করা হয়েছে */}
         <a 
-          href="/Rafsanul_Rifat_CV.docx.pdf" 
+          href="/RESUME OF RAFSANUL RIFAT.pdf" 
           target="_blank"
           className="resume-button absolute bottom-10 right-0 flex items-center gap-2 pointer-events-auto group"
         >
