@@ -51,7 +51,7 @@ const SocialIcons = () => {
         >
           {[
             { Icon: FaGithub, url: "https://github.com/rafsanul247" },
-            { Icon: FaLinkedinIn, url: "https://www.linkedin.com/in/rafsanulrifat47" },
+            { Icon: FaLinkedinIn, url: "https://www.linkedin.com/in/rafsanulrifatcse47" },
             { Icon: FaXTwitter, url: "https://x.com/rafsanulrifat" },
             { Icon: FaFacebook, url: "https://www.facebook.com/rafsanul.rifat.47" },
           ].map((item, i) => (

@@ -45,7 +45,7 @@ const Contact = () => {
             <div className="flex flex-col gap-2">
               {[
                 { name: "Github", url: "https://github.com/rafsanul247" },
-                { name: "Linkedin", url: "https://www.linkedin.com/in/rafsanulrifat47" },
+                { name: "Linkedin", url: "https://www.linkedin.com/in/rafsanulrifatcse47" },
                 { name: "Twitter", url: "https://x.com/rafsan_official" },
                 { name: "Instagram", url: "https://instagram.com/rafsan" }
               ].map((link) => (
